@@ -4,12 +4,14 @@ Using ASP.NET Core, implement a RESTful API to retrieve the details of the best 
 How to run the Application 
 ==================================
 
-Open .Net CLI and Navigate to project directory: cd HackerNewsService /n
+Open .Net CLI and Navigate to project directory: 
+cd HackerNewsService 
 
-Build the project: dotnet build /n
+Build the project: 
+dotnet build 
 
-if the build is sucess Run the project using below cmd \n
-dotnet run /n 
+if the build is sucess Run the project using below cmd 
+dotnet run 
 
 The API will be accessible at https://localhost:5001 (or a different URL if configured differently).
 
