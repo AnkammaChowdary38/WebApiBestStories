@@ -1,0 +1,21 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:12345",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "HackerNewsService": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/stories/best?n=10",
+      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
