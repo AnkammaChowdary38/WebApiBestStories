@@ -10,7 +10,7 @@ cd HackerNewsService
 Build the project: 
 dotnet build 
 
-if the build is sucess Run the project using below cmd 
+if the build is sucess Run the project using cmd : 
 dotnet run 
 
 The API will be accessible at https://localhost:5001 (or a different URL if configured differently).
